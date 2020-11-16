@@ -1,0 +1,13 @@
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\bin\Debug\netcoreapp3.1\Programa3P.exe
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\bin\Debug\netcoreapp3.1\Programa3P.deps.json
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\bin\Debug\netcoreapp3.1\Programa3P.runtimeconfig.json
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\bin\Debug\netcoreapp3.1\Programa3P.runtimeconfig.dev.json
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\bin\Debug\netcoreapp3.1\Programa3P.dll
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\bin\Debug\netcoreapp3.1\Programa3P.pdb
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\obj\Debug\netcoreapp3.1\Programa3P.csprojAssemblyReference.cache
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\obj\Debug\netcoreapp3.1\Programa3P.AssemblyInfoInputs.cache
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\obj\Debug\netcoreapp3.1\Programa3P.AssemblyInfo.cs
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\obj\Debug\netcoreapp3.1\Programa3P.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\obj\Debug\netcoreapp3.1\Programa3P.dll
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\obj\Debug\netcoreapp3.1\Programa3P.pdb
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa3P\obj\Debug\netcoreapp3.1\Programa3P.genruntimeconfig.cache
