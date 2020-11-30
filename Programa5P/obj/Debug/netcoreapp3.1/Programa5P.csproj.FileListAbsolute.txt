@@ -1,0 +1,13 @@
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\bin\Debug\netcoreapp3.1\Programa5P.exe
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\bin\Debug\netcoreapp3.1\Programa5P.deps.json
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\bin\Debug\netcoreapp3.1\Programa5P.runtimeconfig.json
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\bin\Debug\netcoreapp3.1\Programa5P.runtimeconfig.dev.json
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\bin\Debug\netcoreapp3.1\Programa5P.dll
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\bin\Debug\netcoreapp3.1\Programa5P.pdb
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\obj\Debug\netcoreapp3.1\Programa5P.csprojAssemblyReference.cache
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\obj\Debug\netcoreapp3.1\Programa5P.AssemblyInfoInputs.cache
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\obj\Debug\netcoreapp3.1\Programa5P.AssemblyInfo.cs
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\obj\Debug\netcoreapp3.1\Programa5P.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\obj\Debug\netcoreapp3.1\Programa5P.dll
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\obj\Debug\netcoreapp3.1\Programa5P.pdb
+C:\Users\RODRIGO\Desktop\GitHup\Trabajos\Programa5P\obj\Debug\netcoreapp3.1\Programa5P.genruntimeconfig.cache
